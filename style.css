@@ -1,0 +1,41 @@
+body{
+  background: #0061fe;
+  color: #000000;
+  font-family: 'Segoe UI';
+}
+
+label{
+  width: 17%;
+  color:#ffffff
+  display: inline-block;
+  text-align: right;
+  font-family:'Trebuchet MS', sans-serif;
+  font-weight: 750
+}
+
+input{
+  background: #606060;
+  color: #000000;
+  font-size: 120%;
+  border: none;
+  font-family:'Trebuchet MS', sans-serif;
+}
+
+.Message{
+  color: #ffffff;
+  font-family:'Trebuchet MS', sans-serif;
+  font-weight: 750
+}
+
+#Main{
+  background: #0061fe;
+  color:#ffffff
+  border-radius: 4%;
+  padding-left: 4%;
+  font-family:'Trebuchet MS', sans-serif;
+}
+
+#Title{
+  font-size: 300%;
+  font-family:'Trebuchet MS', sans-serif;
+}
